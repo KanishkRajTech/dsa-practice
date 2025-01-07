@@ -24,6 +24,10 @@ This repository is designed to help students tackle basic Data Structures and Al
 - Sorting Algorithms
 - Recursion
 
+## Technologies
+C Language 
+
+
 ## Contributing
 Feel free to contribute by adding new problems, improving existing solutions, or suggesting improvements. Contributions are always welcome!
 
