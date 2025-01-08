@@ -1,3 +1,17 @@
+// Problem Statement:
+// -> Write a C program to create a circular linked list and display its elements. The program should:
+
+// 1. Allow the user to input data for each node in the linked list.
+// 2. Dynamically allocate memory for each new node.
+// 3. Display all the elements of the linked list once the input process is complete.
+
+// Input:
+// -> An integer value for each node.
+// -> A choice to either continue adding nodes or stop
+// Output:
+// -> A display of all elements in the linked list.
+
+
 #include <stdio.h>
 #include <stdlib.h> 
 
