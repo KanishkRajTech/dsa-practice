@@ -4,8 +4,7 @@
 
 // 1. Allow the user to input data for each node in the linked list.
 // 2. Dynamically allocate memory for each new node.
-// 3. Link the nodes together to form the list.
-// 4. Display all the elements of the linked list once the input process is complete.
+// 3. Display all the elements of the linked list once the input process is complete.
 
 // Input:
 // -> An integer value for each node.
