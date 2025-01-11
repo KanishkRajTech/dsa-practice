@@ -1,5 +1,5 @@
 // Problem Statement:
-// -> Write a C program to create a singly linked list and display its elements. The program should:
+// -> Write a C program to create a doubly linked list and display its elements. The program should:
 
 // 1. Allow the user to input data for each node in the linked list.
 // 2. Dynamically allocate memory for each new node.
