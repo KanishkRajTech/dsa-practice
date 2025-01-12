@@ -1,3 +1,11 @@
+// Problem Statement:
+// Write a C program to implement a menu-driven stack using an array. The program should provide the following functionalities:
+
+// 1). Push Operation: Insert an element onto the stack.
+// 2). Pop Operation: Remove and display the top element from the stack.
+// 3). Peek Operation: Display the top element without removing it.
+// 4). Display Operation: Show all elements of the stack from top to bottom.
+
 #include <stdio.h>
 #define N 5
 
