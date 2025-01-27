@@ -1,3 +1,5 @@
+Bubble Sort Algorithm
+// Write a C program to implement the Bubble Sort algorithm. The program should take an array of integers as input and sort them in ascending order using the Bubble Sort technique. The algorithm should be optimized to stop early if no swaps occur in a pass.
 #include <stdio.h>
 
 void bubbleSort(int A[], int n) {
